@@ -4,22 +4,21 @@ body {
     text-align: center;
     background-color: #6f7380;
     color: #333;
-  }
-  
-  h1 {
+}
+
+h1 {
     color: #0066cc;
-  }
-  
-  img, iframe {
+}
+
+img, iframe {
     max-width: 100%;
     height: auto;
     margin: 10px 0;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  }
-  
-  iframe {
+}
+
+iframe {
     aspect-ratio: 16 / 9;
     width: 80%;
-  }
-  
+}
